@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Firebase User Pw Auth</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="button_sign_in_label">Sign In</string>
+    <string name="sign_up_link_text">Not a member? Sign Up!</string>
+    <string name="auto_fill_email_hint">Enter your email</string>
+    <string name="auto_fill_password_hint">Enter your password</string>
+    <string name="button_sign_up_label">Sign Up</string>
+    <string name="repeat_password_hint">Repeat Password</string>
+    <string name="exit_app">Exit App</string>
+    <string name="button_logout_label">Logout</string>
+    <string name="button_update_email_label">Update Email</string>
+    <string name="button_update_password_label">Update Password</string>
+    <string name="email_address_label">Email Address</string>
+    <string name="id_label">ID</string>
+    <string name="current_email_hint">Current Email</string>
+    <string name="new_email_hint">New Email</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="send_verification_email">Send Verification Email</string>
+    <string name="account_not_verified">Account Not Verified</string>
+    <string name="load_webview_label">Load WebView</string>
+</resources>
